@@ -1,0 +1,183 @@
+relation,entity1,chunk1,entity2,chunk2
+greater progression,Gene,ApoE Gene,Disease,disability Disease
+abnormal neural repair,Gene,ApoE Gene,Disease,multiple sclerosis Disease
+overexpression may make tumours less susceptible to therapy involving apoptosis,Gene,cIAP-2 Gene,Disease,tumours Disease
+recombinant killerTRAIL,Gene,TRAIL Gene,Disease,bladder cancer Disease
+progression,Gene,CYP17A1 Gene,Disease,tumors Disease
+progression,Gene,CYP17A1 Gene,Disease,prostate cancer Disease
+progression,Gene,CYP19A1 Gene,Disease,tumors Disease
+progression,Gene,CYP19A1 Gene,Disease,prostate cancer Disease
+progression,Gene,KLK3 Gene,Disease,tumors Disease
+progression,Gene,KLK3 Gene,Disease,prostate cancer Disease
+influences platelet phenotype,Gene,eNOS Gene,Disease,platelet aggregation Disease
+influences platelet phenotype,Gene,eNOS Gene,Disease,coronary syndrome Disease
+17.5%.,Gene,ANKK1 Gene,Disease,psychiatric Disease
+17.5%.,Gene,ANKK1 Gene,Disease,schizophrenia Disease
+activation produces nitric oxide-mediated systemic hypotension,Gene,nociceptin receptor Gene,Disease,hypotension Disease
+nitric oxide-mediated systemic hypotension,Gene,nociceptin Gene,Disease,hypotension Disease
+a risk factor,Gene,LDLR Gene,Disease,atherosclerosis Disease
+AMP-activated protein kinase,Gene,AMPK Gene,Disease,atherosclerosis Disease
+a risk factor for atherosclerosis,Gene,SREBP-1 Gene,Disease,atherosclerosis Disease
+sterol regulatory element-binding protein-2,Gene,SREBP-2 Gene,Disease,atherosclerosis Disease
+overexpression,Gene,alpha-synuclein Gene,Disease,PD Disease
+overexpression,Gene,alpha-synuclein Gene,Disease,neurodegenerative disorder Disease
+increased obesity risk or resistance,Gene,FTO Gene,Disease,obesity Disease
+pathogenesis,Gene,DKK4 Gene,Disease,schizophrenia Disease
+polymorphism with AA,Gene,eNOS Gene,Disease,Alopecia areata Disease
+polymorphism with AA,Gene,eNOS Gene,Disease,inflammatory disease Disease
+pathogenesis,Gene,HFE Gene,Disease,hemochromatosis Disease
+Hereditary hemochromatosis,Gene,HFE Gene,Disease,autosomal recessive diseases Disease
+increased HDL,Gene,estrogen receptor alpha Gene,Disease,diabetes mellitus Disease
+glucocorticoid receptor,Gene,GR Gene,Disease,diabetes mellitus Disease
+progression,Gene,hAR Gene,Disease,prostatic cancer Disease
+alteration to the gene at position 38 may contribute to asthma,Gene,CC16 Gene,Disease,asthma Disease
+Haploinsufficiency,Gene,TCF4 Gene,Disease,mental retardation Disease
+Haploinsufficiency,Gene,TCF4 Gene,Disease,microcephaly Disease
+founder mutations,Gene,BRCA1 Gene,Disease,breast cancer Disease
+about 40%.,Gene,BRCA1 Gene,Disease,ovarian cancer Disease
+founder mutations,Gene,BRCA2 Gene,Disease,breast cancer Disease
+hyper-reactive,Gene,IgE Gene,Disease,onchocerciasis Disease
+hyper-reactive,Gene,IL-13 Gene,Disease,onchocerciasis Disease
+cancer-related thrombosis,Gene,FVL Gene,Disease,cancer Disease
+cancer-related thrombosis,Gene,FVL Gene,Disease,thrombosis Disease
+insulin resistance,Gene,insulin Gene,Disease,diabetes Disease
+insulin resistance,Gene,insulin Gene,Disease,type 2 diabetes Disease
+insulin resistance,Gene,insulin Gene,Disease,glucose metabolism Disease
+Keratin 17,Gene,K17 Gene,Disease,mild focal keratoderma Disease
+Keratin 17,Gene,K17 Gene,Disease,ectodermal dysplasia Disease
+hypertrophic nail dystrophy,Gene,K17 Gene,Disease,dystrophy Disease
+Pachyonychia congenita type 2,Gene,K17 Gene,Disease,autosomal dominant disorder Disease
+C282Y and H63D mutations,Gene,HFE Gene,Disease,Hyperferritinemia Disease
+progressive,Gene,HFE Gene,Disease,hemochromatosis Disease
+C282Y and H63D mutations,Gene,HFE Gene,Disease,genetic disorder Disease
+C282Y and H63D mutations in the HFE gene,Gene,transferrin Gene,Disease,Hyperferritinemia Disease
+progressive,Gene,transferrin Gene,Disease,hemochromatosis Disease
+progressive,Gene,transferrin Gene,Disease,genetic disorder Disease
+bromodomain-containing protein 4,Gene,BRD4 Gene,Disease,cancers Disease
+bromodomain-containing protein 4,Gene,BRD4 Gene,Disease,osteosarcoma Disease
+rapamycin,Gene,mTOR Gene,Disease,osteosarcoma Disease
+upregulation,Gene,p21 Gene,Disease,cancers Disease
+upregulation,Gene,p21 Gene,Disease,osteosarcoma Disease
+Overexpression,Gene,RUNX2 Gene,Disease,osteosarcoma Disease
+recurrent,Gene,PLCG1 Gene,Disease,angiosarcoma Disease
+recurrent,Gene,PLCG1 Gene,Disease,tumors Disease
+negative regulator of vascular growth factor tyrosine kinases,Gene,PTPRB Gene,Disease,angiosarcoma Disease
+negative regulator of vascular growth factor tyrosine kinases,Gene,PTPRB Gene,Disease,tumors Disease
+progressive,Gene,ACE Gene,Disease,hypertrophic cardiomyopathy Disease
+greater progression,Gene,ACE Gene,Disease,hypertrophy Disease
+greater progression,Gene,ACE Gene,Disease,left ventricular hypertrophy Disease
+greater progression of left ventricular hypertrophy,Gene,ACE Gene,Disease,primary disorder of the myocardium Disease
+greater progression,Gene,ACE Gene,Disease,ventricular hypertrophy Disease
+predisposing,Gene,SPINK5 Gene,Disease,atopic diseases Disease
+predisposing to atopic diseases,Gene,SPINK5 Gene,Disease,asthma Disease
+predisposing,Gene,SPINK5 Gene,Disease,atopic dermatitis Disease
+predisposing,Gene,serine protease Gene,Disease,atopic diseases Disease
+predisposing,Gene,serine protease Gene,Disease,atopic dermatitis Disease
+obesity,Gene,apo B Gene,Disease,obesity Disease
+apolipoprotein E,Gene,apoE Gene,Disease,type III hyperlipoproteinemia Disease
+exacerbates,Gene,apoE Gene,Disease,xanthomas Disease
+exacerbates development of atherosclerosis,Gene,apoE Gene,Disease,atherosclerosis Disease
+phosphatidylethanolamine N-methyltransferase,Gene,PEMT Gene,Disease,Nonsyndromic cleft lip Disease
+phosphatidylethanolamine N-methyltransferase,Gene,PEMT Gene,Disease,cleft palate Disease
+choline kinase,Gene,CHKA Gene,Disease,cleft palate Disease
+dimethylglycine dehydrogenase,Gene,DMGDH Gene,Disease,Nonsyndromic cleft lip Disease
+dimethylglycine dehydrogenase,Gene,DMGDH Gene,Disease,cleft palate Disease
+choline-phosphate cytidylyltransferase A,Gene,PCYT1A Gene,Disease,cleft palate Disease
+choline dehydrogenase,Gene,CHDH Gene,Disease,cleft palate Disease
+venous thrombosis,Gene,F12 Gene,Disease,thrombophilic Disease
+venous thrombosis,Gene,F12 Gene,Disease,VTE Disease
+decrease,Gene,VDR Gene,Disease,tumoral Disease
+CRC progression,Gene,VDR Gene,Disease,colonic cancer Disease
+mutations at the tyrosine kinase domain,Gene,EGFR Gene,Disease,adenocarcinoma Disease
+EGFR inhibitor,Gene,EGFR Gene,Disease,non-small cell lung cancer Disease
+epidermal growth factor receptor (EGFR) inhibitors,Gene,EGFR Gene,Disease,lung cancer Disease
+increased susceptibility,Gene,NEUROG1 Gene,Disease,schizophrenia Disease
+altered Abeta(42) CSF levels,Gene,CSF Gene,Disease,AD Disease
+altered Abeta(42) CSF levels,Gene,CSF Gene,Disease,Dementias Disease
+increased AD risk,Gene,APOE4 Gene,Disease,AD Disease
+AD risk,Gene,APOE4 Gene,Disease,Dementias Disease
+ACE activity,Gene,angiotensin II Gene,Disease,hypertension Disease
+slow the progression,Gene,angiotensin II Gene,Disease,renal diseases Disease
+The MYBPC3 gene was the most frequently mutated,Gene,MYBPC3 Gene,Disease,hypertrophic cardiomyopathy Disease
+most frequently mutated,Gene,MYBPC3 Gene,Disease,hypertrophy Disease
+Mutation of a sarcomeric gene is the most frequent cause,Gene,MYH7 Gene,Disease,hypertrophic cardiomyopathy Disease
+earlier,Gene,FcgammaRIIa Gene,Disease,arthritis Disease
+pathogenesis,Gene,FcgammaRIIa Gene,Disease,hematologic abnormalities Disease
+lethal ATP7A mutation,Gene,ATP7A Gene,Disease,neurodegeneration Disease
+copper deficiency,Gene,U95 Gene,Disease,neurodegeneration Disease
+fibroblast growth factor receptor (FGFR) 2 mutations,Gene,FGF-2 Gene,Disease,Apert syndromic craniosynostosis Disease
+Apert FGFR-2 mutations,Gene,FGFR-2 Gene,Disease,Apert syndromic craniosynostosis Disease
+early-onset myocardial infarction,Gene,HNRPUL1 Gene,Disease,myocardial infarction Disease
+involved in platelet degranulation,Gene,VAMP8 Gene,Disease,myocardial infarction Disease
+expression of Fos protein,Gene,Fos Gene,Disease,seizures Disease
+expression of Fos protein,Gene,Fos Gene,Disease,stress and injury Disease
+cellular stress and injury,Gene,HSP72 Gene,Disease,seizures Disease
+Mutations in the X-linked gene,Gene,dystrophin Gene,Disease,cardiac disease Disease
+X-linked gene,Gene,dystrophin Gene,Disease,cardiac contractile abnormalities in dystrophinopathy Disease
+DbetaH catalyzes the conversion of dopamine to norepinephrine,Gene,DBH Gene,Disease,ADHD Disease
+DbetaH catalyzes the conversion of dopamine to norepinephrine,Gene,DBH Gene,Disease,psychiatric disorder Disease
+dopamine-beta-hydroxylase,Gene,DBH Gene,Disease,hyperactive Disease
+Attention-deficit/hyperactivity disorder,Gene,DBH Gene,Disease,impulsive symptoms Disease
+modulate the risk of bladder cancer,Gene,RUNX3 Gene,Disease,cancer Disease
+Insulin secretion,Gene,insulin Gene,Disease,obesity Disease
+Rare mutations in gene PCSK1,Gene,insulin Gene,Disease,abnormal glucose homeostasis Disease
+Insulin secretion,Gene,insulin Gene,Disease,hyperinsulinemic-euglycemic Disease
+"Rare mutations in gene PCSK1, encoding this enzyme, cause childhood obesity",Gene,PCSK1 Gene,Disease,obesity Disease
+"Rare mutations in gene PCSK1, encoding this enzyme, cause childhood obesity",Gene,PCSK1 Gene,Disease,abnormal glucose homeostasis Disease
+tumor necrosis factor-alpha,Gene,TNF-alpha Gene,Disease,bacterial vaginosis Disease
+RA susceptibility,Gene,CTLA-4 Gene,Disease,Rheumatoid arthritis Disease
+RA susceptibility,Gene,CTLA-4 Gene,Disease,autoimmune disease Disease
+progression,Gene,HER-2 Gene,Disease,breast cancer Disease
+modifies breast cancer risk,Gene,RAD51 Gene,Disease,breast cancer Disease
+modifier,Gene,BRCA1 Gene,Disease,breast cancer Disease
+modifies breast cancer risk,Gene,BRCA2 Gene,Disease,breast cancer Disease
+cancer and heart disease,Gene,EPPK Gene,Disease,heart disease Disease
+cancer and heart disease,Gene,EPPK Gene,Disease,cancer Disease
+diagnosis,Gene,EPPK Gene,Disease,confirmation of epidermolytic palmoplantar keratoderma Disease
+umbilical blood flow velocimetry,Gene,AT1 Gene,Disease,preeclampsia Disease
+prostate carcinogenesis,Gene,FGF8 Gene,Disease,cancer Disease
+increase in CYP1A2 activity,Gene,CYP1A2 Gene,Disease,cancer Disease
+increase in CYP1A2 activity,Gene,CYP1A2 Gene,Disease,colorectal cancer Disease
+one common genetic variant,Gene,MDR1 Gene,Disease,cancer Disease
+parathyroid carcinoma,Gene,MEN1 Gene,Disease,endocrine neoplasia type 1 (MEN1) syndrome Disease
+development of parathyroid carcinoma,Gene,HRPT2 Gene,Disease,metastases Disease
+development of parathyroid carcinoma,Gene,HRPT2 Gene,Disease,sporadic parathyroid cancer Disease
+parathyroid carcinoma,Gene,HRPT2 Gene,Disease,endocrine neoplasia type 1 (MEN1) syndrome Disease
+monogenic forms,Gene,PRKN Gene,Disease,PD Disease
+1.07,Gene,Her 2 Gene,Disease,T/T versus non-T/T Disease
+not Her 2 and MTHFR polymorphisms are associated with breast cancer,Gene,MTHFR Gene,Disease,breast cancer Disease
+1.07,Gene,p53 Gene,Disease,T/T versus non-T/T Disease
+p53 codon 72 polymorphism is statistically significantly associated with breast cancer,Gene,p53 Gene,Disease,breast cancer Disease
+significantly more pronounced decrease of HR,Gene,CYP2D6 Gene,Disease,Hypotensive Disease
+alcohol withdrawal seizure,Gene,dopamine-beta-hydroxylase Gene,Disease,AWS Disease
+shared and unique genetic associations,Gene,TLR-4 Gene,Disease,aggressive periodontitis Disease
+shared and unique genetic associations,Gene,TLR-4 Gene,Disease,periodontitis Disease
+low,Gene,CYP2C9 Gene,Disease,low MWWD Disease
+low,Gene,VKORC1 Gene,Disease,low MWWD Disease
+the largest contribution to MWWD,Gene,VKORC1 Gene,Disease,thromboembolic Disease
+deletion,Gene,GSTM1 Gene,Disease,lung adenocarcinoma Disease
+increased risk of squamous cell carcinoma,Gene,SCC Gene,Disease,lung adenocarcinoma Disease
+increased risk,Gene,SCC Gene,Disease,squamous cell carcinoma Disease
+increased risk of squamous cell carcinoma,Gene,SCC Gene,Disease,lung cancer Disease
+increased risk of plaque on carotid arteries,Gene,eNOS Gene,Disease,hypertension Disease
+increased risk,Gene,Lp-PLA2 Gene,Disease,coronary artery disease Disease
+increased risk,Gene,Lp-PLA2 Gene,Disease,coronary disease Disease
+increased risk of coronary heart disease,Gene,Lp-PLA2 Gene,Disease,CHD events Disease
+causal,Gene,Lp-PLA2 Gene,Disease,coronary atheroma Disease
+TLR adaptor proteins,Gene,TRIF Gene,Disease,RSV infection Disease
+RSV,Gene,TRIF Gene,Disease,airway inflammation Disease
+RSV-mediated,Gene,SARM Gene,Disease,RSV infection Disease
+RSV-induced airway inflammation,Gene,SARM Gene,Disease,airway inflammation Disease
+RSV-mediated,Gene,SARM Gene,Disease,respiratory tract infection Disease
+GABRA5 is the gene actually associated with the disease,Gene,GABRA5 Gene,Disease,bipolar affective illness Disease
+GABRA5 is the gene actually associated with the disease,Gene,GABRB3 Gene,Disease,bipolar affective illness Disease
+pathogenesis,Gene,GABRB3 Gene,Disease,affective disorders Disease
+epidermal growth factor receptor (EGFR) signaling pathway,Gene,EGFR Gene,Disease,non-small cell lung cancer Disease
+Several genes and loci have been shown to be involved in the disease,Gene,ROM1 Gene,Disease,retinal degeneration Disease
+susceptibility to RA,Gene,eotaxin-3 Gene,Disease,asthma Disease
+susceptibility to RA,Gene,eotaxin-3 Gene,Disease,allergic diseases Disease
+susceptibility to RA,Gene,eotaxin Gene,Disease,asthma Disease
+susceptibility to RA,Gene,eotaxin Gene,Disease,autoimmune disease Disease
+susceptibility to RA,Gene,eotaxin Gene,Disease,allergic diseases Disease
+susceptibility to RA,Gene,eotaxin-2 Gene,Disease,asthma Disease
+susceptibility to RA,Gene,eotaxin-2 Gene,Disease,allergic diseases Disease
